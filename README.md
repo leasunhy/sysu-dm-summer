@@ -12,7 +12,7 @@ Contents
 Lessons:
 * L0: [Self Evaluation](0.self-evaluation)
 * L1: [NumPy and Pandas](1.tools)
-* L2: *none*
+* L2: [LSH](2.lsh)
 * L3: [Data Preprocessing](3.preprocessing)
 * L4: [Optimal Histogram](4.optimal-histogram)
 * L5: [Decision Trees](5.decision-tree)
