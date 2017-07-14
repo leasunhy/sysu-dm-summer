@@ -19,4 +19,5 @@ Lessons:
 * L6: [GaussianNB, KNN and Cross-validation](6.gaussiannb-knn-cv)
 * L7: [Naive Bayesian Classifiers](7.naive-bayesian-classifiers)
 * L8: [Clustering](8.clustering)
+* L9: [Apriori Algorithm](9.apriori)
 
